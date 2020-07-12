@@ -1,0 +1,24 @@
+{
+  "name": "nblib",
+  "version": "1.0.1",
+  "description": "Library for NBdomain",
+  "main": "nblib.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bloodchen/nblib.git"
+  },
+  "keywords": [
+    "nbdomain",
+    "domain",
+    "nblib"
+  ],
+  "author": "bloodchen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bloodchen/nblib/issues"
+  },
+  "homepage": "https://github.com/bloodchen/nblib#readme"
+}

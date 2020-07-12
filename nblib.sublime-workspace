@@ -1,0 +1,398 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"gen",
+				"genScriptFromBitbus"
+			],
+			[
+				"ge",
+				"genData2signFromBitbus"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"get",
+				"getBitId"
+			],
+			[
+				"verif",
+				"verifyID"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"tx",
+				"tx_c"
+			],
+			[
+				"li",
+				"limit"
+			],
+			[
+				"bit",
+				"bitSync"
+			],
+			[
+				"q",
+				"query"
+			],
+			[
+				"time",
+				"timestamp"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"confi",
+				"configObj"
+			],
+			[
+				"jso",
+				"jsonString"
+			],
+			[
+				"hash",
+				"hashes"
+			],
+			[
+				"fu",
+				"full_url"
+			],
+			[
+				"vec",
+				"Vec"
+			],
+			[
+				"cmd",
+				"cmd_addfile"
+			],
+			[
+				"E",
+				"Error"
+			],
+			[
+				"prin",
+				"println\tprintln!(…)"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "nblib.js",
+			"settings":
+			{
+				"buffer_size": 1073,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 522,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "test.js",
+			"settings":
+			{
+				"buffer_size": 280,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/maxthon/develop/nblib"
+	],
+	"file_history":
+	[
+		"/Users/maxthon/develop/bitIdentity/package.json",
+		"/Users/maxthon/develop/minerAPI/test.js",
+		"/Users/maxthon/develop/NBdomain2/node_modules/bsv/index.js",
+		"/Users/maxthon/develop/bitIdentity/node_modules/filepay/index.js",
+		"/Users/maxthon/develop/bitIdentity/.gitignore",
+		"/Users/maxthon/develop/plana/test.js",
+		"/Users/maxthon/develop/plana/bitSync.js",
+		"/Users/maxthon/develop/bitBus/test.js",
+		"/Users/maxthon/develop/bitBus/test_filepay.js",
+		"/Users/maxthon/develop/NBdomain2/docs/index.html",
+		"/Users/maxthon/develop/NBdomain2/docs/_coverpage.md",
+		"/Users/maxthon/Downloads/aa.txt",
+		"/Users/maxthon/develop/temp/index.html",
+		"/Users/maxthon/Downloads/vue2048-master/README.md",
+		"/Users/maxthon/Downloads/index.html",
+		"/Users/maxthon/develop/namebsv-site/_data/navigation.yml",
+		"/Users/maxthon/develop/namebsv-site/_includes/navigation.html",
+		"/Users/maxthon/Downloads/the_basics/lib/views/home/home_view.dart",
+		"/Users/maxthon/develop/go-test/ui.go",
+		"/Users/maxthon/develop/zs/testdata/blog/.zs/layout.amber",
+		"/Users/maxthon/develop/ZeroPub/src/site/<html>",
+		"/Users/maxthon/develop/go-ipfs/core/bootstrap_test.go",
+		"/Users/maxthon/develop/Javascript/unsplash.html",
+		"/Users/maxthon/develop/rust/livesfile/src/main.rs",
+		"/Users/maxthon/develop/db/src/main.rs",
+		"/Users/maxthon/develop/db/Cargo.toml"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "nblib.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1073,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								915,
+								915
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 28.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 522,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								40,
+								40
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "test.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 280,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								274,
+								274
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "nblib.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
