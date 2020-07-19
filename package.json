@@ -1,6 +1,6 @@
 {
   "name": "nblib",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "description": "Library for NBdomain",
   "main": "nblib.js",
   "scripts": {
@@ -17,6 +17,12 @@
   ],
   "author": "bloodchen",
   "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "bitidentity": "^1.0.17",
+    "filepay": "^2.2.6",
+    "minercraft": "0.0.8"
+  },
   "bugs": {
     "url": "https://github.com/bloodchen/nblib/issues"
   },

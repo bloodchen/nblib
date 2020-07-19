@@ -5,24 +5,23 @@ NBLIB.config({
 	debug:true
 });
 
-const address = "15bibvjHN2EBbdxWeRncwZkLZfEW7DJBxP";
+const address = "18HWams3diHEsFCY8UAR2vNL8AxENdnE5Z";
 (async ()=>{
-	//const info = await nbapi.getAll("15bibvjHN2EBbdxWeRncwZkLZfEW7DJBxP");
-	//console.log(info);
-	const d1001 = await NBLIB.getDomain("1001.test");
-	const isOwner = await d1001.isOwner(address);
+	const tld = await NBLIB.getTLDinfo();
+	console.log(tld);
+	const info = await NBLIB.domainFromAddress("18HWams3diHEsFCY8UAR2vNL8AxENdnE5Z");
+	console.log(info);
+	const domain = await NBLIB.getDomain("1020.test");
+	const isOwner = await domain.isOwner(address);
 	console.log(isOwner);
-	const config = {
-		domain:"1001.test",
-		key:"name",
-		value:{
-			t:"note",
-			author:"jeff",
-			message:"good work"
-		},
-		idKey:"",
-		payKey:""
+	domain.setPrivateKey("L2Xp8LEbUKYgrij9jxhrbkw9UfVuRtuoPk1TZzDoPQgGTLvnyxhb");
+	const kv = {
+		test:{
+			t:"test",
+			author:"me"
+		}
 	}
-	const ret = await d1001.updateKey(config);
+	const ret = await domain.updateKey(kv);
+	console.log(ret);
 
 })();
